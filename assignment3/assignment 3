@@ -1,5 +1,4 @@
-myreduce() function which works exactly
-like Python's built-in function reduce()
-
-1.2 Write a Python program to implement your own myfilter() function which works exactly
-like Python's built-in function filter()
+  
+1.1reduce() function from scratch
+1.2 filter() function from scratch
+2. list comprehension
